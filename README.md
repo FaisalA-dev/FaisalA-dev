@@ -13,12 +13,6 @@ The following **required** functionality is completed:
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
  
-## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## App Brainstorming (Step 4)
 Some of my favorite features on my most used apps would include Snapchat's feature to delete a chat after it is seen. I also like another feature it has that includes making chats stay available after 24 hours. Instagram also has one of the features which is to make a chat or message delete after it is seen. 
 
