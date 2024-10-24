@@ -12,6 +12,16 @@ The following **required** functionality is completed:
 
 - [ ] Users are see a screen with three labels and a button
 - [ ] Tapping the button changes the screen color to a random color
+
+
+<div>
+    <a href="https://www.loom.com/share/ec8e3c50dab44bfdabc96a5a9765d259">
+      <p>My First Coding Project 🌟 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/ec8e3c50dab44bfdabc96a5a9765d259">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/ec8e3c50dab44bfdabc96a5a9765d259-1a48b050a9c5be51-full-play.gif">
+    </a>
+  </div>
  
 ## App Brainstorming (Step 4)
 Some of my favorite features on my most used apps would include Snapchat's feature to delete a chat after it is seen. I also like another feature it has that includes making chats stay available after 24 hours. Instagram also has one of the features which is to make a chat or message delete after it is seen. 
